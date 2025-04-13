@@ -1,0 +1,175 @@
+{
+  "Companies": [
+    {
+      "CompanyID": 1,
+      "CompanyName": "RenovateRight",
+      "CompanyLocation": "Milano"
+    },
+    {
+      "CompanyID": 2,
+      "CompanyName": "HomeStyle Solutions",
+      "CompanyLocation": "Giardini Naxos"
+    },
+    {
+      "CompanyID": 3,
+      "CompanyName": "Quality Renovations Ltd.",
+      "CompanyLocation": "Milano"
+    },
+    {
+      "CompanyID": 4,
+      "CompanyName": "Bathroom Bliss",
+      "CompanyLocation": "Giardini Naxos"
+    },
+    {
+      "CompanyID": 5,
+      "CompanyName": "Window Wonders",
+      "CompanyLocation": "Milano"
+    }
+  ],
+  "RenovationTypes": [
+    {
+      "RenovationTypeID": 1,
+      "RenovationTypeName": "Bathroom"
+    },
+    {
+      "RenovationTypeID": 2,
+      "RenovationTypeName": "Aluminum Windows"
+    },
+    {
+      "RenovationTypeID": 3,
+      "RenovationTypeName": "Wood Windows"
+    },
+    {
+      "RenovationTypeID": 4,
+      "RenovationTypeName": "PVC Windows"
+    }
+  ],
+  "Prices": [
+    {
+      "PriceID": 1,
+      "CompanyID": 1,
+      "RenovationTypeID": 1,
+      "Price": 8000,
+      "Currency": "EUR",
+      "Unit": "per bathroom",
+      "Notes": "Standard bathroom renovation"
+    },
+    {
+      "PriceID": 2,
+      "CompanyID": 1,
+      "RenovationTypeID": 2,
+      "Price": 300,
+      "Currency": "EUR",
+      "Unit": "per window",
+      "Notes": "Aluminum window installation"
+    },
+    {
+      "PriceID": 3,
+      "CompanyID": 1,
+      "RenovationTypeID": 3,
+      "Price": 500,
+      "Currency": "EUR",
+      "Unit": "per window",
+      "Notes": "Wood window installation"
+    },
+    {
+      "PriceID": 4,
+      "CompanyID": 1,
+      "RenovationTypeID": 4,
+      "Price": 250,
+      "Currency": "EUR",
+      "Unit": "per window",
+      "Notes": "PVC window installation"
+    },
+    {
+      "PriceID": 5,
+      "CompanyID": 2,
+      "RenovationTypeID": 1,
+      "Price": 9500,
+      "Currency": "EUR",
+      "Unit": "per bathroom",
+      "Notes": "Luxury bathroom renovation"
+    },
+    {
+      "PriceID": 6,
+      "CompanyID": 2,
+      "RenovationTypeID": 2,
+      "Price": 350,
+      "Currency": "EUR",
+      "Unit": "per window",
+      "Notes": "Aluminum window installation"
+    },
+    {
+      "PriceID": 7,
+      "CompanyID": 2,
+      "RenovationTypeID": 4,
+      "Price": 280,
+      "Currency": "EUR",
+      "Unit": "per window",
+      "Notes": "PVC window installation"
+    },
+    {
+      "PriceID": 8,
+      "CompanyID": 3,
+      "RenovationTypeID": 1,
+      "Price": 7500,
+      "Currency": "EUR",
+      "Unit": "per bathroom",
+      "Notes": "Basic bathroom renovation"
+    },
+    {
+      "PriceID": 9,
+      "CompanyID": 3,
+      "RenovationTypeID": 3,
+      "Price": 600,
+      "Currency": "EUR",
+      "Unit": "per window",
+      "Notes": "Wood window installation"
+    },
+    {
+      "PriceID": 10,
+      "CompanyID": 3,
+      "RenovationTypeID": 4,
+      "Price": 220,
+      "Currency": "EUR",
+      "Unit": "per window",
+      "Notes": "PVC window installation"
+    },
+    {
+      "PriceID": 11,
+      "CompanyID": 4,
+      "RenovationTypeID": 1,
+      "Price": 6000,
+      "Currency": "EUR",
+      "Unit": "per bathroom",
+      "Notes": "Small bathroom renovation"
+    },
+    {
+      "PriceID": 12,
+      "CompanyID": 5,
+      "RenovationTypeID": 2,
+      "Price": 280,
+      "Currency": "EUR",
+      "Unit": "per window",
+      "Notes": "Aluminum window - Energy Efficient"
+    },
+    {
+      "PriceID": 13,
+      "CompanyID": 5,
+      "RenovationTypeID": 3,
+      "Price": 480,
+      "Currency": "EUR",
+      "Unit": "per window",
+      "Notes": "Wood Window - Premium quality"
+    },
+    {
+      "PriceID": 14,
+      "CompanyID": 4,
+      "RenovationTypeID": 4,
+      "Price": 200,
+      "Currency": "EUR",
+      "Unit": "per window",
+      "Notes": "PVC Window - Budget Friendly"
+    }
+  ]
+}
