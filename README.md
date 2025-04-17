@@ -1,7 +1,5 @@
 # "A Wall of Prompt"
 ### _Using Gemini AI to compare real-estate investment for short-term rentals_
-#### _Author: [Elisa Romondia](elisaromondia.it)_
-
 **Author:** [Elisa Romondia](https://elisaromondia.it)
 
 ## Abstract
