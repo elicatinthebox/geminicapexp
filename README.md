@@ -3,8 +3,6 @@
 **Author:** [Elisa Romondia](https://elisaromondia.it)
 
 ## Abstract
-
-# Abstract
 This project was created as a **Capstone Project** for the [5-day Generative AI Intensive course](https://rsvp.withgoogle.com/events/google-generative-ai-intensive). The goal is to apply [Gemini AI](https://gemini.google.com/) capabilities to a real-world project. To make the project more understandable to a wider audience, I looked for a real-world problem that was common today. A real estate investment intended as the purchase of a property to be rented out through short-term rentals. To make the use case more familiar to a wider audience, I chose to focus on small apartments, well-known locations and a well-known service for short-term rentals, in this case, [airbnb](https://www.airbnb.com/). As locations, I chose to take two starting points (gemini will then help me refine the search on specific areas based on my requests in the prompts) in the same country (Italy): [Milano](https://en.wikipedia.org/wiki/Milan), because it is one of the most visited cities in Italy and the Italian location of one of the most successful TV series of this period: [The White Lotus (second 2)](https://en.wikipedia.org/wiki/The_White_Lotus_season_2). We know from Wikipedia that Taormina is the main location but to demonstrate the AI's capabilities (in this specific case, grounding), I will base the initial prompt on the reference to the second season of the TV series.
 
 ### Disclaimer about the data used in the notebook
