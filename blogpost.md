@@ -20,7 +20,7 @@ How could I objectively compare these options, considering factors like purchase
 
 ## My Gemini AI Approach: A "Wall of Prompt" Strategy
 
-My project cleverly employs Gemini AI (specifically, I experimented with the `gemini-1.5-flash-002` and `gemini-2.0-flash` models) as a central analysis engine. I called it "A Wall of Prompt" because my strategy involved iteratively prompting Gemini with various data sources and questions to build a comprehensive comparison.
+My project efficiently employs Gemini AI (specifically, I experimented with the `gemini-1.5-flash-002` and `gemini-2.0-flash` models) as a central analysis engine. I called it "A Wall of Prompt" because my strategy involved iteratively prompting Gemini with various data sources and questions to build a comprehensive comparison.
 
 ### Data Sources & Gemini's Multimodality
 
@@ -59,7 +59,7 @@ My "A Wall of Prompt" project convinced me that Gemini AI can be a powerful tool
 * **Data Analysis:** Extracting key information, performing calculations (averages, ROI), and comparing data points.
 * **Summarization & Reasoning:** Providing coherent descriptions, comparisons, and conclusions based on multiple inputs.
 
-I feel the project effectively tackled a real-world problem, showcasing how AI can streamline research and provide valuable insights for decision-making. While the data I used was partly illustrative, the methodology provides a strong blueprint for applying generative AI to investment analysis. My experience highlighted the importance of feeding the AI diverse, relevant data (hence, "A Wall of Prompt") and critically evaluating its outputs, especially when dealing with estimations and market variables. 
+In my opinion, the project effectively tackled a real-world problem, showcasing how AI can streamline research and provide valuable insights for decision-making. While the data I used was partly illustrative, the methodology provides a strong blueprint for applying generative AI to investment analysis. My experience highlighted the importance of feeding the AI diverse, relevant data (hence, "A Wall of Prompt") and critically evaluating its outputs, especially when dealing with estimations and market variables. 
 
 *Limitations*: Since this is a demonstration project I tried to limit the comparison by not repeating the application of the same functions on both apartments equally, this is because the main purpose is to show the capabilities of Gemini. For the same reason and to save costs the data samples have been limited. Keep in mind that in a real use case the data could be more substantial and require guarantees on their protection. For an in-depth analysis of real data, I strongly recommend including the same set of relevant documents for all properties being compared. Furthermore, considering that you are performing a financial real estate analysis, I strongly recommend having the report supervised by a qualified professional who is licensed to practice in the geographical jurisdiction where you intend to operate.
 
