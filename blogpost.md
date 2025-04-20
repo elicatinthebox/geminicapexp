@@ -52,7 +52,7 @@ In the notebook, I systematically guided Gemini through the comparison process:
 
 ## Conclusion: My Experience with Gemini as a Real Estate Analyst Assistant
 
-My "A Wall of Prompt" project convinced me that Gemini AI can be a powerful tool for complex comparison tasks like real estate investment analysis. By leveraging its abilities in:
+My "A Wall of Prompt" project demonstrates that Gemini AI can be a powerful tool for complex comparison tasks like real estate investment analysis. By leveraging its abilities in:
 
 * **Information Retrieval:** Using grounding to access and synthesize web data.
 * **Multimodal Understanding:** Processing text (PDF, CSV), images, and video.
