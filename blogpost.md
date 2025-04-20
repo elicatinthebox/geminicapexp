@@ -48,6 +48,7 @@ In the notebook, I systematically guided Gemini through the comparison process:
 4.  **Document & Multimodal Understanding:** I uploaded and cached the PDF listings, renovation CSV, images, and video. I then prompted Gemini to describe these documents, analyze the properties' conditions, and assess the coherence of the chosen locations with its earlier profitable area suggestions.
 5.  **Cost Estimation & Market Check:** I asked Gemini to estimate the cost of replacing the Brera apartment's three windows with wood, using the provided CSV data (it calculated an average of €800/window for a total of €2400). Then, I used grounding to ask it to check this estimate against the current Milan market. It concluded the estimate was reasonable for materials but likely underestimated the total cost by omitting installation – a valuable sanity check.
 6.  **ROI Analysis:** Finally, I prompted Gemini to perform a simplified Return on Investment (ROI) calculation, comparing the high-cost/high-potential-income Brera property (estimated ROI 1.27%) with the lower-cost/needs-renovation Giardini Naxos property (estimated ROI 5.11%). While I acknowledge the limitations (simplified calculation, no financing costs, need for detailed market research), the analysis favoured the Giardini Naxos apartment for potentially higher ROI due to the much lower initial investment.
+    ![code snippets](https://github.com/elicatinthebox/geminicapexp/raw/refs/heads/main/photos/codesnippets.png)
 
 ## Conclusion: My Experience with Gemini as a Real Estate Analyst Assistant
 
